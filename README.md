@@ -1,4 +1,4 @@
-[# SDN Learning Switch Controller
+# SDN Learning Switch Controller
 
 ## Problem Statement
 
@@ -168,12 +168,6 @@ mininet> h1 iperf -c 10.0.0.2 -t 5
 ### Flow Table
 ![flow_table](screenshots/flow_table.png)
 
-### Scenario 1 — H1 ping H2
-![ping_h1_h2](screenshots/ping_h1_h2.png)
-
-### Scenario 2 — H3 blocked
-![ping_h3_blocked](screenshots/ping_h3_blocked.png)
-
 ### iperf Bandwidth Test
 ![iperf](screenshots/iperf.png)
 
@@ -198,4 +192,3 @@ mininet> h1 iperf -c 10.0.0.2 -t 5
 3. Mininet Documentation — http://mininet.org
 4. Open vSwitch — https://www.openvswitch.org
 
-](https://github.com/Jayanth130/sdn-learning-switch.git)
