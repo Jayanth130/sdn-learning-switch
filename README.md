@@ -166,13 +166,13 @@ mininet> h1 iperf -c 10.0.0.2 -t 5
 ## Proof of Execution
 
 ### Flow Table
-![flow_table](screenshots/flow_table.png)
+![flow_table](Screenshots/flow_table.png)
 
 ### iperf Bandwidth Test
-![iperf](screenshots/iperf.png)
+![iperf](Screenshots/iperf.png)
 
 ### Wireshark Capture
-![wireshark](screenshots/wireshark.png)
+![wireshark](Screenshots/wireshark.png)
 
 ## Key Concepts
 
